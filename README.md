@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Rodriguez</h1>
 <h3 align="center">A passionate Mobile developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscordz2001&label=Profile%20views&color=0e75b6&style=flat" alt="franciscordz2001" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscordz2001" alt="franciscordz2001" /></a> </p>
 
 - 🔭 I’m currently working on [AdoptMe](https://github.com/FranciscoRdz2001/animals_adoption_app_flutter)
