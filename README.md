@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=franciscordz2001&theme=nord" alt="franciscordz2001" /></a> </p>
 
-- 🔭 I’m currently working on [AdoptMe](https://github.com/FranciscoRdz2001/animals_adoption_app_flutter) and [ScheduleApp](https://github.com/TecMasters420/FrontEnd-App)
+- 🔭 I’m currently working on [AdoptMe](https://github.com/FranciscoRdz2001/animals_adoption_app_flutter) and [ScheduleApp](https://github.com/TecMasters420/FrontEnd-App/tree/dev)
 
 - 🌱 I’m currently learning **Flutter**
 
