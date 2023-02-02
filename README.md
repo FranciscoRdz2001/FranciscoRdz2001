@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [ScheduleApp](https://github.com/TecMasters420/FrontEnd-App/tree/dev) and [AdoptMe](https://github.com/FranciscoRdz2001/animals_adoption_app_flutter)
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All my projects are available [here](https://github.com/FranciscoRdz2001?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
